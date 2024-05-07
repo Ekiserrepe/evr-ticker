@@ -4,6 +4,7 @@
     "description": "This extension displays the current Evernode price.",
     "version": "0.1",
     "permissions": [
+      "storage",
       "idle",
       "activeTab"
     ],
